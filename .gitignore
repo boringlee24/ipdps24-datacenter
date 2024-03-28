@@ -1,0 +1,3 @@
+rules/
+__pycache__/
+*egg-info/
